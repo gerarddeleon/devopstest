@@ -1,0 +1,22 @@
+{
+  "name": "devopstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gerarddeleon@github.com/gerarddeleon/devopstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerarddeleon/devopstest/issues"
+  },
+  "homepage": "https://github.com/gerarddeleon/devopstest#readme",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  }
+}
